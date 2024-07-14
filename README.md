@@ -1,0 +1,2 @@
+# intune
+Intune allgemeine Skripte
